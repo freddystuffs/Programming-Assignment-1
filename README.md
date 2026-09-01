@@ -51,7 +51,7 @@ make_username("Ana Maria", "De Leon")
 ```
 
 ## **C. BOOKEND SWAP PROBLEM (Sequence Unpacking)**
-### Create a function that accepts a list (containing at least 2 elements). This function will then switch the first and last elements while keeping the order of the middle element/s intact.
+Create a function that accepts a list (containing at least 2 elements). This function will then switch the first and last elements while keeping the order of the middle element/s intact.
 
 ### Function/s used:
 `swap_bookends()` ~ the function simply switches the first and last elements of a list.
