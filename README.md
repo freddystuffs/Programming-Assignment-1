@@ -7,5 +7,5 @@
 ### • Do not use external Python libraries.
 ### • Use only basic Python operations, string methods, slicing, and sequence unpacking. Loops and classes are not required.
 ### • Test each function using the examples provided. Additional valid inputs may be used when grading the notebook.
-##-------------------------------------------------------------------------------------------------------------------
+## __________________________________________________________________________________________________________________
 # The main goal of this programming assignment is to apply basic Python functions and operations such as manipulating strings using indexing, slicing, and sequence unpacking.
