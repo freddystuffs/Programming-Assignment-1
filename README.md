@@ -3,13 +3,13 @@
 This repository contains the Programming Assignment 1 for ECE 2112. The goal of this programming assignment is to apply basic Python functions and operations, such as manipulating strings using indexing, slicing, and sequence unpacking.
 
 ## **Objective:**
-Write a Python program in a Jupyter Notebook to solve each of the following problems.
-• Use the exact function names specified in each problem.
-• Place each problem in a separate, clearly labeled section of the notebook.
-• Each function must return the required result unless printed output is explicitly requested.
-• Do not use external Python libraries.
-• Use only basic Python operations, string methods, slicing, and sequence unpacking. Loops and classes are not required.
-• Test each function using the examples provided. Additional valid inputs may be used when grading the notebook.
+### Write a Python program in a Jupyter Notebook to solve each of the following problems.
+#### • Use the exact function names specified in each problem.
+#### • Place each problem in a separate, clearly labeled section of the notebook.
+#### • Each function must return the required result unless printed output is explicitly requested.
+#### • Do not use external Python libraries.
+#### • Use only basic Python operations, string methods, slicing, and sequence unpacking. Loops and classes are not required.
+#### • Test each function using the examples provided. Additional valid inputs may be used when grading the notebook.
 
 ## **A. WORD ROTATION PROBLEM (Slicing)**
 Create a function that moves the first character of the string to the end while keeping the characters in the middle in their original order. Preserve the capitalization of every character.
